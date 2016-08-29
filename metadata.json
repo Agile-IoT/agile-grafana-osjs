@@ -1,0 +1,11 @@
+{
+  "className":  "ApplicationGrafana",
+  "name":       "Grafana",
+  "description":"Tool for querying and visualizing time series and metrics",
+  "mime":       null,
+  "category":   "data",
+  "icon":       "/icon/grafana.png",
+  "preload":    [
+    {"src": "main.js", "type": "javascript"}
+  ]
+}

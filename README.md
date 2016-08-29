@@ -1,2 +1,2 @@
 # osjs-grafana
-Runs Grafana app inside OS.js 
+Runs Grafana app inside OS.js
