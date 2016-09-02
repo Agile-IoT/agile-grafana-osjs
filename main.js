@@ -23,7 +23,7 @@
     this.options.src = src;
   }
 
-  ApplicationNodeRed.prototype = Object.create(Application.prototype);
+  ApplicationGrafana.prototype = Object.create(Application.prototype);
 
   /////////////////////////////////////////////////////////////////////////////
   // EXPORTS
