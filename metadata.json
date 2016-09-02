@@ -4,7 +4,7 @@
   "description":"Tool for querying and visualizing time series and metrics",
   "mime":       null,
   "category":   "data",
-  "icon":       "/icon/grafana.png",
+  "icon":       "",
   "preload":    [
     {"src": "main.js", "type": "javascript"}
   ]
