@@ -3,7 +3,7 @@
   "name":       "Grafana",
   "description":"Tool for querying and visualizing time series and metrics",
   "mime":       null,
-  "category":   "data",
+  "category":   "development",
   "icon":       "",
   "preload":    [
     {"src": "main.js", "type": "javascript"}
